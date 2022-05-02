@@ -1,7 +1,7 @@
 {
     "name": "facebook/graph-sdk",
     "description": "Facebook SDK for PHP",
-    "keywords": ["facebook", "sdk"],
+    "keywords":  ["facebook", "sdk"],
     "type": "library",
     "homepage": "https://github.com/facebook/php-graph-sdk",
     "license": "Facebook Platform",
@@ -39,4 +39,5 @@
             "dev-master": "5.x-dev"
         }
     }
+
 }

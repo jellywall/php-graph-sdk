@@ -11,6 +11,9 @@
             "homepage": "https://github.com/facebook/php-graph-sdk/contributors"
         }
     ],
+    "replace": {
+        "facebook/graph-sdk":"5.7.0"
+    },
     "require": {
         "php": "^5.4|^7.0|^8.1"
     },

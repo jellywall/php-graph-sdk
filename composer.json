@@ -12,7 +12,7 @@
         }
     ],
     "replace": {
-        "facebook/graph-sdk":"5.7.0"
+        "facebook/graph-sdk":"^5.7.1"
     },
     "require": {
         "php": "^5.4|^7.0|^8.1"
